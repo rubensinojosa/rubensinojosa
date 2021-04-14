@@ -5,7 +5,7 @@
 ### 👦About me :seedling: : 
 - 👋 My name is **Rubens F. Oliveira Inojosa de Andrade**, and I am 29 years old.
 - 📌 I'm from Recife-PE, Brasil.
-- 💼 I am currently looking for a job or an internship in an IT company.
+- 💼 I am currently working as an IT Intern at ![NEUROTECH](https://www.neurotech.com.br/).💎
 - 🎓 I'm a Software Engineering Student at university UNINASSAU, Recife-PE. 
 - 🛠️ Studying to become a **Front-end Web Developer**.
 - 🔭 Curiosities: I also have a degree in Law, but my passion for tech speaks louder.
