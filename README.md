@@ -24,7 +24,7 @@
 
 ### :bulb:  Statistics
 
-![Gitlab Stats]
+<h1> Gitlab Stats </h1>
 
 <img width="755" alt="gitlabactivity1" src="https://user-images.githubusercontent.com/72421048/236007534-4e142b17-986a-45ed-b2ea-6ef31ec385ef.png">
  
