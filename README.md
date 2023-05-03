@@ -3,27 +3,23 @@
 </h1>
 
 ### 👦About me :seedling: : 
-- 👋 My name is **Rubens F. Oliveira Inojosa de Andrade**, and I am 29 years old.
+- 👋 My name is **Rubens F. Oliveira Inojosa de Andrade**.
 - 📌 I'm from Recife-PE, Brasil.
-- 💼 I am currently working as an Software Projects Development Analyst at [NEUROTECH](https://www.neurotech.com.br/).💎
-- 🎓 I'm a Software Engineering Student at university UNINASSAU, Recife-PE. 
-- 🛠️ Studying to become a **Front-end Web Developer**.
+- 💼 I am currently working as a Front-end Web Developer at [ACP GROUP](https://www.acpgroup.com.br/).💎
+- 🎓 I'm a Software Engineering Student at university UNINASSAU, Recife-PE.
 - 🔭 Curiosities: I also have a degree in Law, but my passion for tech speaks louder.
 
 <hr>
 
 ### ⚡ Abilities:
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📦 Databases:
 - ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF)
 
 
 ### 🧰 Tools:
-- ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF)  
-
-### 🎓 Interested in learn:
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+- ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF)  
 
 
 ### :bulb:  Statistics
