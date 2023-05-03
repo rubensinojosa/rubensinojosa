@@ -23,6 +23,9 @@
 
 
 ### :bulb:  Statistics
+
+![Gitlab Stats]
+
 <img width="755" alt="gitlabactivity1" src="https://user-images.githubusercontent.com/72421048/236007534-4e142b17-986a-45ed-b2ea-6ef31ec385ef.png">
  
 [![Rubens github stats](https://github-readme-stats.vercel.app/api?username=rubensinojosa&theme=cobalt&show_icons=true)](https://github.com/rubensinojosa/github-readme-stats)
