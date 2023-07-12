@@ -6,13 +6,13 @@
 - 👋 My name is **Rubens F. Oliveira Inojosa de Andrade**.
 - 📌 I'm from Recife-PE, Brasil.
 - 💼 I am currently working as a Front-end Web Developer at [ACP GROUP](https://www.acpgroup.com.br/).💎
-- 🎓 I'm a Software Engineering Student at university UNINASSAU, Recife-PE.
+- 🎓 I'm a Software Engineer graduated at university UNINASSAU, Recife-PE.
 - 🔭 Curiosities: I also have a degree in Law, but my passion for tech speaks louder.
 
 <hr>
 
 ### ⚡ Abilities:
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 📦 Databases:
 - ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF)
