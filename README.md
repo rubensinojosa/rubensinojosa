@@ -4,8 +4,8 @@
 
 ### 👦About me :seedling: : 
 - 👋 My name is **Rubens F. Oliveira Inojosa de Andrade**.
-- 📌 I'm from Recife-PE, Brasil.
-- 💼 I am currently working as a Front-end Web Developer at [ACP GROUP](https://www.acpgroup.com.br/).💎
+- 📌 I'm from Recife-PE, Brasil, but living in Póvoa de Varzim, Porto, Portugal.
+- 💼 I am currently working as a Front-end Web Developer at [Brave.ag](https://brave.ag/).💎
 - 🎓 I'm a Software Engineer graduated at university UNINASSAU, Recife-PE.
 - 🔭 Curiosities: I also have a degree in Law, but my passion for tech speaks louder.
 
